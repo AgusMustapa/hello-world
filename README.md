@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Im Agus Mustapa from Indonesia, currently studying IT in SCU
